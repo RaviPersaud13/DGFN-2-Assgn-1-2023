@@ -3,6 +3,7 @@
 # This code allows the user to input values to calculate
 # either the area of a circle, rectangle, or triangle, and
 # the volume of a sphere and cylinder.
+# Cited from lecture and ChatGPT (asked how to properly implement the formulas in)
 
 # Defines functions for calculating area and volume for different shapes
 def calculate_area_of_circle(radius):
