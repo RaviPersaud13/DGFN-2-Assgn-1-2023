@@ -1,4 +1,5 @@
 # DGFN-2-Assgn-1-2023
+# Functions obtained from https://www.nicm.dev/vcgencmd/ 
 # This server runs on the Raspberry Pi and sends arguments from vcgencmds as a JSON object.
 
 # Necessary imports
